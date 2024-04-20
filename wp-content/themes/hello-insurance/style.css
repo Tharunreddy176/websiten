@@ -1,0 +1,36 @@
+/**
+ * Theme Name: Hello Insurance
+ * Theme URI: https://sparklewpthemes.com/wordpress-themes/hello-fse/
+ * Author: sparklewpthemes
+ * Author URI: https://sparklewpthemes.com/
+ * Description: Hello Insurance is an ultra-sleek, customizable WordPress block theme engineered for diverse industries, offering a fully responsive design, top-tier performance, and seamless user experience to your digital presence to new heights.
+ * Template: hello-fse
+ * Requires at least: 5.9
+ * Tested up to: 6.2
+ * Requires PHP: 7.4
+ * Version: 1.0.2
+ * License: GPL-2.0-or-later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: hello-insurance
+ * Tags: full-site-editing, block-patterns, block-styles, custom-colors, custom-font-sizes, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+ */
+
+.wp-site-blocks .wp-block-search .wp-block-search__inside-wrapper .wp-block-search__input {
+    color: #000 !important;
+}
+
+.wp-site-blocks .wp-block-search .wp-block-search__inside-wrapper .wp-block-search__input {
+    padding: 5px 0 5px 25px;
+    background: transparent;
+}
+
+.wp-site-blocks .wp-block-search.wp-block-search__icon-button .wp-block-search__button {
+    padding: 3px 6px;
+}
+
+.wp-block-group.sp-team-overlap {
+    margin-top: -50px !important;
+    background: #fff;
+    padding: 20px;
+    width: 90%;
+}
